@@ -4,7 +4,7 @@ Landing page responsiva para un gimnasio de escalada en bloque, con formulario d
 
 **Demo en vivo:** [pega aquí tu link de Vercel/Netlify]
 
-![Captura de la landing](./screenshot.png)
+![Captura de la landing](Screenshot.png)
 
 ## Funcionalidades
 
